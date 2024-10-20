@@ -1,0 +1,221 @@
+{
+    "public_identifier": "ankurjaiswalofficial",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/ankurjaiswalofficial/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20241020%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20241020T052152Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=4ab25af230c3affca98fc4425c8087412145a34a95ee72668445a4be3d957b31",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/ankurjaiswalofficial/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20241020%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20241020T052152Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=e7cec017b6c5f8a5b69f86e92ce03ac941cea6e2d1bc265182841ae205f81029",
+    "first_name": "Ankur",
+    "last_name": "Jaiswal",
+    "full_name": "Ankur Jaiswal",
+    "follower_count": 463,
+    "occupation": "Full Stack Developer at Goitdev Technologies",
+    "headline": "Experienced Full Stack Developer with a strong command of modern web technologies like React, Node.js, and Next.js. Skilled in building scalable, high-performance applications.",
+    "summary": "Experienced Full Stack Developer with a strong command of modern web technologies like React, Node.js, and Next.js. Skilled in building scalable, high-performance applications, I specialize in frontend and backend integration, delivering end-to-end solutions across diverse industries.",
+    "country": "IN",
+    "country_full_name": "India",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2024
+            },
+            "ends_at": null,
+            "company": "Goitdev Technologies",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/goitdev",
+            "company_facebook_profile_url": null,
+            "title": "Full Stack Developer",
+            "description": "Web development company specializing in creating affordable, high-quality web solutions. They focus on building products and providing development and maintenance support to clients globally. I am happy to say that I am working in such a employee friendly company and the heads are too supportive and I learned a lot from here and am still learning.",
+            "location": "Uttar Pradesh, India",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/goitdev/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20241020%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20241020T052203Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=432dc63183a4b784d5493dd1df6582143b03771cb8ab46cf5cb5a7167015a87b"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2022
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 11,
+                "year": 2026
+            },
+            "field_of_study": null,
+            "degree_name": "Bachelor of Technology - BTech",
+            "school": "Dr. A.P.J. Abdul Kalam Technical University",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/69456783/",
+            "school_facebook_profile_url": null,
+            "description": "Skills: Skill Development \\u00b7 Next.js \\u00b7 Multitasking \\u00b7 Code Review \\u00b7 Redux.js \\u00b7 English \\u00b7 Mathematics \\u00b7 Responsiveness \\u00b7 Computer Science \\u00b7 Git \\u00b7 XML",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/aktuofficial/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20241020%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20241020T052203Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=8e2680c7a4a8ca4de0d33fc8dd9a125ccfa4e8bbb0cbcf56c00118f132d6eda9",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [],
+    "languages_and_proficiencies": [],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2023
+            },
+            "ends_at": null,
+            "name": "Typing certificate",
+            "license_number": "6644656",
+            "display_source": "ratatype.com",
+            "authority": "Ratatype",
+            "url": "https://www.ratatype.com/en/u6644656/certificate/en/"
+        }
+    ],
+    "connections": 466,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/munendra-kumar-591848283?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAEUAjT0BGqw-XBigrIxB5-hPoThU2XDhUQU",
+            "name": "MUNENDRA KUMAR",
+            "summary": "-DELHI INSTITUTE OF ENGINEERING AND TECHNOLOGY                                                                        #python #html#css#",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/arpit-agrahari-54aa192a1?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAEjxmMoBzKUz-7ZRgYteXZQHVjEDs-B5kAQ",
+            "name": "Arpit Agrahari",
+            "summary": "MERN Full Stack Web Developer || HTML || CSS || JavaScript || Firebase || MySQL || Mongodb|| React.js || Node.js || Express|| GFG DSA Score (1000+) || GFG Campus Ambassador || C || C++ || Python",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/anurag-rana-69874ash?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAD5t92gBL61GMiN8TBo3SCunU63LU3uZqSw",
+            "name": "Anurag Rana",
+            "summary": "Student at Rajkumar Goel Institute of Technology and Management | 2nd Year | CSE",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/zeeshanafzalkhan107?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADo72fwByy6v8gudADzdqn6sux4dZJTuOQI",
+            "name": "Zeeshan Afzal Khan",
+            "summary": "Versatile MERN Stack Developer & React Enthusiast | Backend Maestro in Node.js & MongoDB | Crafting Seamless REST APIs for Next-Gen Solutions with JavaScript Expertise",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/karan-kumar-823190256?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAD8HyZsBnee1mMGEC738DWOege4YA7VpL-U",
+            "name": "Karan Kumar",
+            "summary": "Full-Stack Developer | Expertise in Next.js & MERN Stack | Passionate about Data Structures & Algorithms",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/prince-raj-2002jan?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADpe7pIBpVSWQ8UiHTp4TuraMyxfPlCnla0",
+            "name": "Prince Raj",
+            "summary": "B.Tech | CSE",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/shreyansh-kumar-697a96244?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADysPVMBmufchK7VZkkIE2pJhZmciwF4nAw",
+            "name": "Shreyansh Kumar",
+            "summary": "React JS || Competitive Programmer || Python || MySql || C++ || DSA || Code Chef : 1500(max rating) || Codeforces : 1016(max rating).",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/nitin-thakur-1b4a7b257?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAD9XKlgB9wa1Bwpr9VsfkiV3Qq9SvLAimUo",
+            "name": "Nitin Thakur",
+            "summary": "Student at Dronacharya Group of Institutions, Greater Noida",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/gaurav-varm-oo21?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADrX1aUBJDWNxzEBXyi8kRZ3sNWnlvnWQ04",
+            "name": "J Gaurav Varma",
+            "summary": "\"Aspiring Web Developer | Actively Seeking Opportunities to learn and grow as a Web Development \\ud83d\\udcbb | Ready to Bring Fresh Ideas and Dedication to Your Team!\"",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/satyam-srivastava-coder?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADIfZvoBCvfWkjuz8i9jXzgS9qjJ_V31Lxg",
+            "name": "Satyam Srivastava",
+            "summary": "Actively looking for SDE role, Ex-SDE Intern at My Pickup\\u25cf500+ DSA @ LeetCode + GFG + Codechef \\u25cf Full-Stack Developer: (Java + HTML + CSS + JavaScript +React Js + Spring Boot + Hibernate)(CSE@AKTU 25)",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/v2/C4E07AQF4M9tbUSRmvQ/group-logo_image-shrink_48x48/group-logo_image-shrink_48x48/0/1631379044271?e=1730008800&v=beta&t=RBAROaxJC1-CdZfvFyQi-hfOc7xnkphkDPG7iFAviWY",
+            "name": "Bangalore IT-Startups",
+            "url": "https://www.linkedin.com/groups/1481357"
+        },
+        {
+            "profile_pic_url": null,
+            "name": "Bangalore Startups",
+            "url": "https://www.linkedin.com/groups/767147"
+        }
+    ],
+    "skills": [
+        "React Native",
+        "Teamwork",
+        "CSS",
+        "JS",
+        "Tailwind CSS",
+        "Bootstrap (Framework)",
+        "Website Building",
+        "Handlebars.js",
+        "Data Extraction",
+        "Program Creation",
+        "Selenium",
+        "Typing",
+        "Mathematics",
+        "REST APIs",
+        "Computer Science",
+        "Next.js",
+        "JSON",
+        "XML",
+        "AJAX",
+        "User Experience (UX)",
+        "Redux.js",
+        "Responsive Web Design",
+        "Responsiveness",
+        "Code Review",
+        "Multitasking",
+        "English",
+        "Git",
+        "Skill Development",
+        "JavaScript",
+        "HTML5",
+        "Cascading Style Sheets (CSS)",
+        "HTML",
+        "Video Editing",
+        "Data Entry",
+        "Scss",
+        "SASS",
+        "SQLite",
+        "Web Development",
+        "Django",
+        "Python (Programming Language)",
+        "React.js",
+        "Html css and javascript ",
+        "Front-End Development",
+        "Full-Stack Development"
+    ],
+    "inferred_salary": {
+        "min": null,
+        "max": null
+    },
+    "gender": null,
+    "birth_date": null,
+    "industry": "Computer Software",
+    "extra": {
+        "github_profile_id": null,
+        "twitter_profile_id": null,
+        "facebook_profile_id": null
+    },
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

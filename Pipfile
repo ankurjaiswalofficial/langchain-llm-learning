@@ -10,6 +10,8 @@ black = "*"
 python-dotenv = "*"
 langchain = {extras = ["gemini"], version = "*"}
 langchain-google-genai = "*"
+ollama = "*"
+langchain-ollama = "*"
 
 [dev-packages]
 
