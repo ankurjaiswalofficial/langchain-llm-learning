@@ -34,4 +34,4 @@ def ice_break_with(name: str) -> str:
 if __name__ == "__main__":
     load_dotenv()
     print("Init")
-    ice_break_with(name="ankurjaiswalofficial Linkedin")
+    ice_break_with(name="Ankur Jaiswal ankurjaiswalofficial github Linkedin")
